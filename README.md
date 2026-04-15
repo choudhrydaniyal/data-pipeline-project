@@ -67,7 +67,7 @@ Final transformed dataset includes:
 
 ### 1. Clone repository
 
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/choudhrydaniyal/data-pipeline-project)  
+git clone https://github.com/choudhrydaniyal/data-pipeline-project
 cd data_pipeline_project
 
 ---
